@@ -1,18 +1,24 @@
-## JavaScript Assignments
+# 100xDevs Cohort - Assignment
 
-You are provided empty JavaScript files (or having function signatures) in this directory. 
-You have to follow the instructions given in each file and write the code in the same file to complete the assignment.
+## 🚀 Overview
+This repository contains my solution for the assignment from Week **[Week Number, e.g., 1]** - **[Topic Name, e.g., Node.js and Express]** under the 100xDevs Cohort by Harkirat Singh.
 
-### Assignments
-Feel free to start doing these in any order you like.
-1. Easy
-2. Medium
-3. Hard
+The objective of this assignment is to build **[Briefly mention what the project does, e.g., a Todo API / a CLI tool / a responsive landing page]**.
 
-## Testing
-1. Follow the comment above each problem to run test for that problem
-3. To tests for all the problems of this week run ```npx jest ./tests/```
+---
 
-#### Development Setup
-1. If you have Node.js locally, you should run these on your machine 
-2. If you don't, you can copy these over to repl.it and run it there. Tests wont be automated there so you will have to make use judgement to ensure if your code is correct
+## 🛠️ Tech Stack & Concepts Used
+* **Language:** JavaScript / TypeScript
+* **Runtime/Framework:** Node.js / Express.js
+* **Concepts:** [e.g., Middlewares, Asynchronous JS, DOM Manipulation, JWT Auth]
+
+---
+
+## 📁 Folder Structure
+```text
+├── src/                  # Source files
+│   ├── index.js          # Main entry point
+│   └── middlewares/      # Custom middlewares (if any)
+├── public/               # Frontend assets (HTML, CSS, JS)
+├── package.json          # Project dependencies and scripts
+└── README.md             # Project documentation
