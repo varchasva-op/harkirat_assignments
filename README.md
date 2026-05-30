@@ -1,9 +1,9 @@
 # 100xDevs Cohort - Assignment
 
 ## 🚀 Overview
-This repository contains my solution for the assignment from Week **[Week Number, e.g., 1]** - **[Topic Name, e.g., Node.js and Express]** under the 100xDevs Cohort by Harkirat Singh.
+This repository contains my solution for the assignment from Week under the 100xDevs Cohort by Harkirat Singh.
 
-The objective of this assignment is to build **[Briefly mention what the project does, e.g., a Todo API / a CLI tool / a responsive landing page]**.
+The objective of this assignment is to build 
 
 ---
 
