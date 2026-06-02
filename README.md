@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 This repository contains my solution for the assignment from Week under the 100xDevs Cohort by Harkirat Singh.
-The objective of this assignment is to build 
+The objective of this assignment is to build .
 
 ---
 
