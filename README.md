@@ -8,7 +8,7 @@ The objective of this assignment is to build
 ## 🛠️ Tech Stack & Concepts Used
 * **Language:** JavaScript / TypeScript
 * **Runtime/Framework:** Node.js / Express.js
-* **Concepts:** [e.g., Middlewares, Asynchronous JS, DOM Manipulation, JWT Auth]
+* **Concepts:** [e.g., Middlewares, Asynchronous JS, DOM Manipulation, JWT Auth
 
 ---
 
