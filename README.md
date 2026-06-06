@@ -9,7 +9,6 @@ The objective of this assignment is to build
 * **Language:** JavaScript / TypeScript
 * **Runtime/Framework:** Node.js / Express.js.
 * **Concepts:** [e.g., Middlewares, Asynchronous JS, DOM Manipulation, JWT Auth,
-
 ---
 
 ## 📁 Folder Structure
